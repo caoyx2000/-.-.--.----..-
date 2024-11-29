@@ -13,5 +13,5 @@
 
   <details>    
   <summary> 24.11.29 </summary>
-  PhD Candidate now! BUt things are still hard......
+  PhD Candidate now! But things are still hard......
   </details>
